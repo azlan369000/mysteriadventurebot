@@ -1,0 +1,2 @@
+# mysteriadventurebot
+buat game adventure
